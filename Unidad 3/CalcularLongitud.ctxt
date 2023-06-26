@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CalcularLongitud
+comment1.params=lineaPunteada
+comment1.target=java.lang.String\ calcular(int)
+numComments=2
